@@ -1,1 +1,1 @@
-Zabbix template
+Zabbix template - UPSMON_Pro.xml
